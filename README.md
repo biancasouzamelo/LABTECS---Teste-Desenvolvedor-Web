@@ -5,3 +5,4 @@ LABTECS - Teste Desenvolvedor Web
 
 Login: root
 password: 123 */
+ E seguir o script que está dentro do arquivo 'banco'.
