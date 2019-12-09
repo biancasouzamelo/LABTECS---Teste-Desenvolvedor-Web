@@ -1,0 +1,22 @@
+/*Config Botões*/
+.botaoform{
+	background-color:#17d398; 
+	border-color:#17d398
+}
+
+/*Textos do topo das 3 telas*/
+.texto1{
+	font-size: 20px;
+	text-align: center;
+}
+
+/*Config Imagem*/
+.logo{
+	text-align: center;
+}
+.teste{
+	text-align: 100px:;
+}
+.cor{
+	background-color: red;
+}
